@@ -1,4 +1,4 @@
-# Food Delivery App
+# Cafe-and-Restaurant-Food-Delivery-App
 
 A full-stack web application for a food delivery service, built with React for the frontend and admin panel, and Node.js/Express for the backend API. The app allows users to browse food items, add them to a cart, place orders, and track their status. Admins can manage food items, view orders, and handle the inventory.
 
